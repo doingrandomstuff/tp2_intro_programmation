@@ -12,3 +12,5 @@ prix > prix du produit
 #Dictionaire
 
 produit = {id, nom, prix, qte}
+
+panier = {}
